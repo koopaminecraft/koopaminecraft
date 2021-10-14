@@ -1,6 +1,6 @@
 {
-	"ip":"koopa.exaroton.me",
-	"port": "54883",
-	"name": "koopabot",
+	"ip":"koopasmp.aternos.me",
+	"port": "47913",
+	"name": "NRBot",
 	"auto-night-skip":"false"
 }

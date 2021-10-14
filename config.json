@@ -1,0 +1,6 @@
+{
+	"ip":"koopa.exaroton.me",
+	"port": "54883",
+	"name": "koopabot",
+	"auto-night-skip":"false"
+}
